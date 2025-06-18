@@ -1,5 +1,5 @@
 
-## BlogIverse - Your Blog Universe
+## BlogIverse - Deployment Link = https://blogi-verse-two.vercel.app/
 
 A modern blogging platform built with React, TypeScript, and Tailwind CSS.
 
